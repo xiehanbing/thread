@@ -399,7 +399,7 @@ namespace 多线程
 
             //_isCompleted = true;
 
-
+            //测试
             int threadId = 0;
 
             ThreadPoolService<TestModel>.RunOnThreadPool poolDelegate = ThreadPoolService<TestModel>.Test;
